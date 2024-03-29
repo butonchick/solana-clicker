@@ -150,8 +150,8 @@ function Clicker({ }: Props) {
         </CookieContainer>
         <FooterContainer>
           <a onClick={() => setIsWelcomeDialogOpen(true)}>Instructions</a>
-          <a href="https://github.com/Decentree/solana-clicker" target="_blank" rel="noopener noreferrer">
-            GitHub
+          <a href="https://t.me/KingoffTheHills" target="_blank" rel="noopener noreferrer">
+            Telegram
           </a>
         </FooterContainer>
       </PageContainer>
